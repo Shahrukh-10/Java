@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class PhoneBook
 {
 	public static void main(String[] args) {
 		
