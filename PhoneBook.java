@@ -14,7 +14,7 @@ public class PhoneBook
         System.out.println("");
         System.out.print("Enter Operation : ");
         String input=sc.next();
-        
+        //phone book
         if(input.trim().equals("A"))
         {
             System.out.println("Enter Name : ");
