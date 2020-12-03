@@ -34,7 +34,7 @@ public class PhoneBook
 	else if(input.trim().equals("R"))
 	{
 	    System.out.println("Enter Name : ");
-	    String s= sc.next();
+	    String s= sc.next(); 
 	    if(hm.containsKey(s))
 	    {
 	    	hm.remove(s);
